@@ -1,0 +1,22 @@
+[
+  {
+    "id":1,
+    "name": "Hardware Reqair",
+    "description": "description  1",
+    "image":"computer-icon.png"
+  },
+
+  {
+    "id":2,
+    "name": "Virus Removal",
+    "description": "description  2",
+    "image":"computer-icon.png"
+  },
+
+  {
+    "id":3,
+    "name": "System tuneup",
+    "description": "description  3",
+    "image":"computer-icon.png"
+  }
+]
